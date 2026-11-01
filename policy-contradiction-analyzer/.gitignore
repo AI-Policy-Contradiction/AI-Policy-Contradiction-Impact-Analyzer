@@ -10,3 +10,11 @@ data/processed/*
 !data/processed/.gitkeep
 results/*
 !results/.gitkeep
+models/
+results/
+data/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
